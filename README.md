@@ -13,7 +13,7 @@
       </summary>
       </p>
       <p>
-      <b>1.1.1</b> Первым делом создаём адекватный стиль заголовка. Переходим во вкладку "Главная". В разделе "Стили" снизу справа нажимаем зночок <img src="https://github.com/Mr-Krabs95/links_and_bookmarks_PDF/blob/main/icons/icon1.png"> ->"Создать стиль".<br>
+      <b>1.1.1</b> Первым делом создаём адекватный стиль заголовка. Переходим во вкладку "Главная". В разделе "Стили" снизу справа нажимаем зночок <img src="https://github.com/Mr-Krabs95/links_and_bookmarks_PDF/blob/main/screenshots/icons/icon1.png"> ->"Создать стиль".<br>
       <img src="https://github.com/Mr-Krabs95/links_and_bookmarks_PDF/blob/main/screenshots/1.1.1.png">
       </p>
       </p>
@@ -27,7 +27,7 @@
       <img src="https://github.com/Mr-Krabs95/links_and_bookmarks_PDF/blob/main/screenshots/1.2.png">
       </p>
       </p>
-      <b>1.1.3</b> Далее нажимаем "Формат" -> "Абзац..." <img src="https://github.com/Mr-Krabs95/links_and_bookmarks_PDF/blob/main//icons/icon2.png"><br>
+      <b>1.1.3</b> Далее нажимаем "Формат" -> "Абзац..." <img src="https://github.com/Mr-Krabs95/links_and_bookmarks_PDF/blob/main/screenshots/icons/icon2.png"><br>
       В открывшемся окне следующие настройки:<br>
       Уровень: Уровень 1<br>
       Отступы первая строка: отступ на 1.25 см и нажимаем OK -> OK.<br>
