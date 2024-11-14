@@ -6,15 +6,22 @@
       <b>1</b> Создание закладок для каждого раздела
     </summary>
       <p>
-        <b>1.1</b> Первым делом создаём адекватный стиль заголовка. Переходим во вкладку "Главная". В разделе стили нажимаем стрелочку вниз -> "Создать стиль".<br />
-        <img src="links_and_bookmarks_PDF/screenshots/1.1.png"/>
-
+        <b>1.1</b> Первым делом создаём адекватный стиль заголовка. Переходим во вкладку "Главная". В разделе "Стили" снизу справа нажимаем зночок <img src="https://github.com/Mr-Krabs95/links_and_bookmarks_PDF/blob/adding_screenshots/screenshots/icons/icon1.png" -> "Создать стиль".<br>
+        <img src="https://github.com/Mr-Krabs95/links_and_bookmarks_PDF/blob/adding_screenshots/screenshots/1.1.png">
       </p>
       <p>
-        <b>1.2</b> Выделите текст заголовка "Состав проектной документации" и перейдите в меню "Вставка">"Закладка".
+        <b>1.2</b> В появившемся окне "Создание стиля" вводим следующие значения: <br>
+        Имя: Закладки PDF<br>
+        Стиль: Абзаца<br>
+        Основан на стиле: Обычный<br>
+        Стиль следующего абзаца: Обычный<br>
+        Форматирование: Times New Roman, 14, <b>Ж</b>, Авто, выравнивание по ширине, междустрочный интервал - одинарный, междустрочное расстояние - минимальное<br>
+        Ставим галочку "Добавить в коллекцию стилей"<br>
+        <img src="https://github.com/Mr-Krabs95/links_and_bookmarks_PDF/blob/adding_screenshots/screenshots/1.2.png">
       </p>
       <p>
-        <b>1.3</b> Введите уникальное имя для закладки.
+        <b>1.3</b> Далее нажимаем "Формат" -> "Абзац..." <img src="https://github.com/Mr-Krabs95/links_and_bookmarks_PDF/blob/adding_screenshots/screenshots/icons/icon2.png"><br>
+        
       </p>
   </p>
 </details>
