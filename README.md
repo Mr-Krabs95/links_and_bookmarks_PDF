@@ -14,7 +14,7 @@
       </p>
       <p>
       <b>1.1.1</b> Первым делом создаём адекватный стиль заголовка. Переходим во вкладку "Главная". В разделе "Стили" снизу справа нажимаем зночок <img src="https://github.com/Mr-Krabs95/links_and_bookmarks_PDF/blob/adding_screenshots/screenshots/icons/icon1.png"> ->"Создать стиль".<br>
-      <img src="https://github.com/Mr-Krabs95/links_and_bookmarks_PDF/blob/adding_screenshots/screenshots/1.1.png">
+      <img src="https://github.com/Mr-Krabs95/links_and_bookmarks_PDF/blob/adding_screenshots/screenshots/1.1.1.png">
       </p>
       </p>
       <b>1.1.2</b> В появившемся окне "Создание стиля" вводим следующие значения: <br>
