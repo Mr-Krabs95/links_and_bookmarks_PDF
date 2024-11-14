@@ -7,7 +7,7 @@
     </summary>
       <p>
         <b>1.1</b> Первым делом создаём адекватный стиль заголовка. Переходим во вкладку "Главная". В разделе стили нажимаем стрелочку вниз -> "Создать стиль".<br />
-        <img src="links_and_bookmarks_PDF/screenshots/1.1.png" />
+        <img src="links_and_bookmarks_PDF/screenshots/1.1.png"/>
 
       </p>
       <p>
