@@ -187,7 +187,7 @@
     <img src="https://github.com/Mr-Krabs95/links_and_bookmarks_PDF/blob/adding_screenshots/screenshots/3.1.png">
     </p>
     <p>
-    <b>3.2</b> Нажмите кнопку "Параметры". В появившемся окне в разделе "Включить непечатаемые данные" поставьте галочку "Создать закладки, используя:" выберите пункт "Заголовки". Нажмите OK.<br>
+    <b>3.2</b> Нажмите кнопку "Параметры". В появившемся окне в разделе "Включить непечатаемые данные" поставьте галочку "Создать закладки, используя:" выберите пункт "заголовки". Нажмите OK.<br>
     <img src="https://github.com/Mr-Krabs95/links_and_bookmarks_PDF/blob/adding_screenshots/screenshots/3.2.png">
     </p>
     <p>
